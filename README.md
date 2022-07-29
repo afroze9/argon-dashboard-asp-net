@@ -4,24 +4,36 @@
 
 ![Product Image](https://github.com/creativetimofficial/public-assets/blob/master/argon-dashboard-aspnet/argon-dashboard-aspnet.gif)
 
-Start your development with a Bootstrap 4 Admin Dashboard built for ASP.NET Core framework, the newest go-to technology from Microsoft for top companies. [Creative Tim](https://www.creative-tim.com/) partnered with [Udevoffice](https://udevoffice.com/) to provide a fully coded **frontend + backend** solution for you. It features a huge number of components that can help you create amazing websites and brings with itself innumerable advantages: lightweight, fast, scalable and modern way to execute your next top app.
+Start your development with a Bootstrap 4 Admin Dashboard built for ASP.NET Core framework, the newest go-to technology
+from Microsoft for top companies. [Creative Tim](https://www.creative-tim.com/) partnered
+with [Udevoffice](https://udevoffice.com/) to provide a fully coded **frontend + backend** solution for you. It features
+a huge number of components that can help you create amazing websites and brings with itself innumerable advantages:
+lightweight, fast, scalable and modern way to execute your next top app.
 
 **FULLY CODED COMPONENTS**
 
-Argon Dashboard ASP.NET is built with over frontend 100 individual components, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files.
-You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This Dashboard is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+Argon Dashboard ASP.NET is built with over frontend 100 individual components, giving you the freedom of choosing and
+combining. All components can take variations in colour, that you can easily modify using SASS files.
+You will save a lot of time going from prototyping to full-functional code, because all elements are implemented. This
+Dashboard is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real
+website is very easy to be done.
 
 Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
 
-View all components [here](https://creative-tim.com/live/argon-dashboard-asp-net/?start-page=docs/components/alerts?ref=adasp-readme)
+View all
+components [here](https://creative-tim.com/live/argon-dashboard-asp-net/?start-page=docs/components/alerts?ref=adasp-readme)
 
 **COMPLEX DOCUMENTATION**
 
-Each element is well presented in a very complex documentation. You can check the components [here](https://creative-tim.com/live/argon-dashboard-asp-net/?start-page=docs/components/alerts?ref=adasp-readme) and the foundation [here](https://creative-tim.com/live/argon-dashboard-asp-net/?start-page=docs/foundation/colors?ref=adasp-readme)
+Each element is well presented in a very complex documentation. You can check the
+components [here](https://creative-tim.com/live/argon-dashboard-asp-net/?start-page=docs/components/alerts?ref=adasp-readme)
+and the
+foundation [here](https://creative-tim.com/live/argon-dashboard-asp-net/?start-page=docs/foundation/colors?ref=adasp-readme)
 
 **Example Pages**
 
-If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
+If you want to get inspiration or just show something directly to your clients, you can jump start your development with
+our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
 View example pages [here](https://www.creative-tim.com/live/argon-dashboard-asp-net?ref=adasp-readme)
 
 ## Table of Contents
@@ -47,7 +59,6 @@ View example pages [here](https://www.creative-tim.com/live/argon-dashboard-asp-
 | --- | --- | --- | --- |
 | [![Argon Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/96/original/opt_ad_thumbnail.jpg)](https://demos.creative-tim.com/argon-dashboard/index.html?ref=adasp-readme) | [![Argon Dashboard Node](https://s3.amazonaws.com/creativetim_bucket/products/148/original/opt_ad_node_thumbnail.jpg)](https://argon-dashboard-nodejs.creative-tim.com/?ref=adasp-readme) | [![Argon Dashboard ASP.NET Core](https://s3.amazonaws.com/creativetim_bucket/products/162/original/opt_ad_asp_thumbnail.jpg)](https://argon-dashboard-asp-net.creative-tim.com/?ref=adasp-readme) | [![Argon Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/140/original/opt_ad_laravel_thumbnail.jpg)](https://argon-dashboard-laravel.creative-tim.com/?ref=adasp-readme) |
 
-
 ## Demo
 
 | Login | User Profile | Tables | Dashboard |
@@ -58,7 +69,9 @@ View example pages [here](https://www.creative-tim.com/live/argon-dashboard-asp-
 
 ## Documentation
 
-The documentation for the Argon Dashboard ASP.NET Core is hosted at [website](https://creative-tim.com/live/argon-dashboard-asp-net/?start-page=docs/getting-started/overview?ref=adasp-readme).
+The documentation for the Argon Dashboard ASP.NET Core is hosted
+at [website](https://creative-tim.com/live/argon-dashboard-asp-net/?start-page=docs/getting-started/overview?ref=adasp-readme)
+.
 
 ## File Structure
 
@@ -265,15 +278,18 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Material Kit. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Material Kit. Here are some advices for our users that want to
+report an issue:
 
-1. Make sure that you are using the latest version of the Material Kit. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/).
+1. Make sure that you are using the latest version of the Material Kit. Check the CHANGELOG from your dashboard on
+   our [website](https://www.creative-tim.com/).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us)
+instead of opening an issue.
 
 ## Licensing
 
@@ -282,13 +298,15 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Useful Links
 
-More products from Creative Tim: [https://www.creative-tim.com/products](https://www.creative-tim.com/products?ref=adasp-readme)
+More products from Creative
+Tim: [https://www.creative-tim.com/products](https://www.creative-tim.com/products?ref=adasp-readme)
 
 Tutorials: [https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
 
 Freebies: [https://www.creative-tim.com/bootstrap-themes/free](https://www.creative-tim.com/bootstrap-themes/free?ref=adasp-readme)
 
-Affiliate Program (earn money): [https://www.creative-tim.com/affiliates/new](https://www.creative-tim.com/affiliates/new?ref=adasp-readme)
+Affiliate Program (earn
+money): [https://www.creative-tim.com/affiliates/new](https://www.creative-tim.com/affiliates/new?ref=adasp-readme)
 
 Social Media:
 

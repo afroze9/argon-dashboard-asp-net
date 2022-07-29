@@ -1,3 +1,0 @@
-FROM postgres:10-alpine
-
-RUN mkdir -p "$PGDATA" && chmod 700 "$PGDATA"
